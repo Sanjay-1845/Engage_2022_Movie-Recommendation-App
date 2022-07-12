@@ -1,0 +1,7 @@
+[theme]
+
+"primaryColor": "someColor1"
+"backgroundColor": "someColor3",
+"secondaryBackgroundColor": "someColor4",
+"textColor": "someColor5",
+"font": "someFont",
